@@ -1,7 +1,5 @@
-# 📍 Smart Geo Finder
+#  Smart Geo Finder
 
-<p align="center">
-<img src="./assets/icon.png" width="120"/>
 
 <h1 align="center">Smart Geo Finder</h1>
 
@@ -20,7 +18,7 @@ Real-time location intelligence application built using React Native and Expo
 
 ---
 
-# 📖 About Project
+#  About Project
 
 Smart Geo Finder is a modern location-based application developed using **React Native + Expo**. The application obtains the user's real-time geographic coordinates and displays the current location on an interactive map.
 
@@ -36,29 +34,21 @@ The app provides:
 
 ---
 
-# ✨ Features
+#  Features
 
 ✅ Get current user location
-
 ✅ Display Latitude & Longitude
-
 ✅ Live map integration
-
 ✅ Real-time coordinates update
-
 ✅ GPS status display
-
 ✅ Signal status display
-
 ✅ Satellite information
-
 ✅ Interactive Google Map
-
 ✅ Modern UI/UX design
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -70,7 +60,7 @@ The app provides:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 GeoFinder
@@ -93,7 +83,7 @@ GeoFinder
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ### Clone Project
 
@@ -127,7 +117,7 @@ npx expo start
 
 ---
 
-# 📱 Application Workflow
+#  Application Workflow
 
 ```text
 Start App
@@ -147,7 +137,7 @@ Show Current Location Marker
 
 ---
 
-# 📷 Application Screenshots
+#  Application Screenshots
 
 ## Loading Screen
 
@@ -205,7 +195,7 @@ Full user interface of Smart Geo Finder.
 
 ---
 
-# 🎯 Expected Output
+#  Expected Output
 
 ```text
 📍 Smart Geo Finder
@@ -225,7 +215,7 @@ Map : Current Location Displayed
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Nearby places search
 - Route navigation
@@ -236,7 +226,7 @@ Map : Current Location Displayed
 
 ---
 
-# 👩‍💻 Developer
+#  Developer
 
 **Maryam Fatima**
 
@@ -244,7 +234,7 @@ Backend Developer | React Native Developer
 
 ---
 
-# 📄 License
+#  License
 
 This project is created for educational and learning purposes.
 
